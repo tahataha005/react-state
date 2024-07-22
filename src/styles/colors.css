@@ -1,0 +1,31 @@
+.primary-bg {
+  background-color: aqua;
+}
+
+.secondary-bg {
+  background-color: blue;
+}
+
+.white-bg {
+  background-color: #ededed;
+}
+
+.black-bg {
+  background-color: #333;
+}
+
+.primary-text {
+  color: aqua;
+}
+
+.secondary-text {
+  color: blue;
+}
+
+.white-text {
+  color: #ededed;
+}
+
+.black-text {
+  color: #333;
+}
